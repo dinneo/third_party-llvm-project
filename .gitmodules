@@ -1,0 +1,36 @@
+[submodule "clang"]
+	path = clang
+	url = ../../third_party/clang
+	branch = .
+[submodule "clang-tools-extra"]
+	path = clang-tools-extra
+	url = ../../third_party/clang-tools-extra
+	branch = .
+[submodule "compiler-rt"]
+	path = compiler-rt
+	url = ../../third_party/compiler-rt
+	branch = .
+[submodule "libcxx"]
+	path = libcxx
+	url = ../../third_party/libcxx
+	branch = .
+[submodule "libcxxabi"]
+	path = libcxxabi
+	url = ../../third_party/libcxxabi
+	branch = .
+[submodule "libunwind"]
+	path = libunwind
+	url = ../../third_party/libunwind
+	branch = .
+[submodule "lld"]
+	path = lld
+	url = ../../third_party/lld
+	branch = .
+[submodule "lldb"]
+	path = lldb
+	url = ../../third_party/lldb
+	branch = .
+[submodule "llvm"]
+	path = llvm
+	url = ../../third_party/llvm
+	branch = .
